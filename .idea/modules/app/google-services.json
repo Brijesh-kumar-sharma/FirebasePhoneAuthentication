@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "774883216899",
+    "firebase_url": "https://otpdesignlearning.firebaseio.com",
+    "project_id": "otpdesignlearning",
+    "storage_bucket": "otpdesignlearning.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774883216899:android:8e699545ba1675d11b4836",
+        "android_client_info": {
+          "package_name": "com.example.otpdesignlearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774883216899-i8mid7qmlpgu4tge93a51atonqjk1dbs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.otpdesignlearning",
+            "certificate_hash": "150941ba8656894c715789791f187679ab1d0171"
+          }
+        },
+        {
+          "client_id": "774883216899-u49hqlu26c2ukshgimh6ve6bv0ou4g5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEnJdXxSCbBxa9HpOLJBlwjxQq7CK37ng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774883216899-u49hqlu26c2ukshgimh6ve6bv0ou4g5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
